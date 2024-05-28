@@ -1,3 +1,8 @@
+# Contributers
+
+Arshdeep singh [(https://github.com/deeparsh7)]
+Sanjana Das [(https://github.com/sd2084)]
+
 # Ornament Purchase Blockchain Application
 ![Screenshot (23)](https://user-images.githubusercontent.com/73234871/232742693-310e6f71-5046-4671-a83e-a6477ec5da18.png)
 
